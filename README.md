@@ -1,5 +1,6 @@
 # Project Setup
 npm init -y
+
 tsc --init
 
 
