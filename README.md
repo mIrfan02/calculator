@@ -17,7 +17,7 @@ npm install
 To run the calculator, use the following command:
 
 node index.js
-<h1>Dependencies<h1>
+## Dependencies
 This project uses the following npm packages:
 
 inquirer: Used for taking input from the user in the console.
