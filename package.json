@@ -1,20 +1,23 @@
 {
-  "name": "@irfankhan01/calc-irfan",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.16"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7",
-    "@types/node": "^20.11.30"
+    "name": "@irfankhan01/calc-irfan",
+    "version": "1.0.0",
+    "description": "A calculator package by Irfan Khan",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+      "calc-irfan": "./index.js"
+    },
+    "keywords": ["calculator", "math", "irfan"],
+    "author": "Irfan Khan",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+      "@types/inquirer": "^9.0.7",
+      "@types/node": "^20.11.30"
+    }
   }
-}
