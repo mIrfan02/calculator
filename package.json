@@ -1,6 +1,6 @@
 {
-  "name": "calculator-irfan",
-  "version": "1.0.1",
+  "name": "@irfankhan01/calc-irfan",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
